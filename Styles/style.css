@@ -16,7 +16,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-#foto{
+.image-profile{
     height: 150px;
     width: 150px;
     border-radius: 100%;
@@ -80,6 +80,6 @@ h2{
     
 }
 
-p{
+.profile-description{
     padding: 10px;
 }
